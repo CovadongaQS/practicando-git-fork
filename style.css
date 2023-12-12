@@ -1,0 +1,19 @@
+html {
+  background-color: teal;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a {
+  color: orange;
+}
+
+a:hover {
+  color: orangered;
+}
+
+img {
+  width: 100%;
+  border-radius: 0, 5;
+}
